@@ -51,7 +51,7 @@
     <dependency>
       <groupId>com.sourcesense.quarkus</groupId>
       <artifactId>quarkus-redis</artifactId>
-      <version>1.9.0.Final</version>
+      <version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
   <build>
